@@ -1,0 +1,23 @@
+{
+  "name": "codingforfun",
+  "version": "1.0.0",
+  "description": "When I feel like playing With Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosFourier/codingForFun.git"
+  },
+  "author": "Carlos Fourier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CarlosFourier/codingForFun/issues"
+  },
+  "homepage": "https://github.com/CarlosFourier/codingForFun#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
